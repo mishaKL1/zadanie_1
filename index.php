@@ -1,7 +1,6 @@
 <?php
 include('partials/header.php');
-?>
-
+?> <!-- connect the file with the header template  --> 
 
 
   <body>
@@ -376,8 +375,8 @@ include('partials/header.php');
 
     <!-- Footer Starts Here -->
     <?php
-    include('partials/footer.php');
-    ?>
+    include('partials/footer.php'); 
+    ?><!-- connect the file with the footwer template  --> 
     
     <div class="sub-footer">
       <div class="container">

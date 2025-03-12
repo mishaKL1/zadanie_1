@@ -1,6 +1,6 @@
 <?php
 include('partials/header.php');
-?>
+?> <!-- connect the file with the header template  --> 
 
 
   <body>
